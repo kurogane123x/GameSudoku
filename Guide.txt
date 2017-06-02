@@ -1,0 +1,9 @@
+English:
+Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 "squares" (made up of 3 x 3 spaces). Each row, column and square (9 spaces each) needs to be filled out with the numbers 1-9, without repeating any numbers within the row, column or square. Does it sound complicated? As you can see from the image below of an actual Sudoku grid, each Sudoku grid comes with a few spaces already filled in; the more spaces filled in, the easier the game – the more difficult Sudoku puzzles have very few spaces that are already filled in.
+
+Vietnamese:
+Sudoku la mot tro choi voi luoi ma tran o vuong 9x9.
+Nhiem vu cua nguoi choi la dien kin nhung o con la voi dieu kien:
+- Moi hang ngang phai co du cac so tu 1 - 9 khong can theo thu tu.
+- Moi cot phai co du cac so tu 1 - 9 khong can theo thu tu.
+- Moi vung 3x3 cung phai co du cac so tu 1 - 9.

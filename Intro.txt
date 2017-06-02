@@ -1,0 +1,38 @@
+English:
+Sudoku (originally called Number Place) is a logic-based, combinatorial
+number-placement puzzle. The objective is to fill a 9x9 grid with digits so that
+each column, each row, and each of the nine 3x3 sub-grids that compose the grid
+(also called "boxes", "blocks", "regions", or "sub-squares") contains all of the
+digits from 1 to 9. The puzzle setter provides a partially completed grid, which
+for a well-posed puzzle has a unique solution.
+
+Completed puzzles are always a type of Latin square with an additional constraint
+on the contents of individual regions. For example, the same single integer may
+not appear twice in the same row, column or in any of the nine 3×3 subregions of
+the 9x9 playing board.
+
+French newspapers featured variations of the puzzles in the 19th century, and the
+puzzle has appeared since 1979 in puzzle books under the name Number Place.
+However, the modern Sudoku only started to become mainstream in 1986 by the
+Japanese puzzle company Nikoli, under the name Sudoku, meaning single number.
+It first appeared in a US newspaper and then The Times (UK) in 2004, from the
+efforts of Wayne Gould, who devised a computer program to rapidly produce
+distinct puzzles.
+https://en.wikipedia.org/wiki/Sudoku
+
+Vietnamese
+Theo Tim Preston, giam doc Puzzler Media - nha xuat ban cac tap chi va sach cau do
+lon nhat cua nuoc Anh thi Sudoku la phat minh cua nha toan hoc the ky 18 Leonhard
+Euler, la nguoi goc Basel (Thuy Si). Euler da dua ra tro choi Hinh vuong Latinh.
+Theo do, nguoi choi phai sap xep cac con so sao cho chung khong duoc trung lap
+theo chieu ngang lan chieu doc.
+
+Trong nhieu nam chi co gioi toan hoc moi biet den Hinh vuong Latinh. Den nam 1970,
+nha xua ban Dell cua My da dua Hinh vuong Latinh vao nhung tap sach do, va dat
+ten la "Vi tri con so". Sau do, tro choi nay duoc dua toi Nhat va duoc nha xuat
+ban Nikoli doi ten thanh Sudoku.
+
+Luoi (ban co) Sudoku nguyen thuy co dang 9x9 voi 9 hang, 9 cot va 9 vung, moi
+vung co 3x3 o vuong. Thong thuong, mot vai o duoc danh so chinh xac, nhung o do 
+chinh la dau moi giup nguoi choi tim ra loi giai, luu y khong duoc thay doi gia
+tri cua cac o nay.
